@@ -1,0 +1,16 @@
+2023-11-27 10:40:35.747 [info] 
+
+
+
+
+2023-11-27 10:40:35.747 [info] Extension host agent started.
+2023-11-27 10:40:35.747 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ra46suz/.vscode-server/extensions
+2023-11-27 10:40:35.764 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ra46suz/.vscode-server/extensions
+2023-11-27 10:40:35.766 [info] [127.0.0.1][e52f3c45][ManagementConnection] New connection established.
+2023-11-27 10:40:35.768 [info] [127.0.0.1][2842a73f][ExtensionHostConnection] New connection established.
+2023-11-27 10:40:35.912 [info] [127.0.0.1][2842a73f][ExtensionHostConnection] <2151599> Launched Extension Host Process.
+2023-11-27 10:45:23.544 [info] [127.0.0.1][e52f3c45][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-27 10:45:23.587 [info] [127.0.0.1][2842a73f][ExtensionHostConnection] <2151599> Extension Host Process exited with code: 0, signal: null.
+2023-11-27 10:45:23.589 [info] Cancelling previous shutdown timeout
+2023-11-27 10:45:23.589 [info] Last EH closed, waiting before shutting down
+2023-11-27 10:50:23.590 [info] Last EH closed, shutting down

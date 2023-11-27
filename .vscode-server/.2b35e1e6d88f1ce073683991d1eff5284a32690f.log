@@ -1,0 +1,34 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:43165 (IPv4)
+Extension host agent listening on 43165
+
+[10:53:33] 
+
+
+
+
+[10:53:33] Extension host agent started.
+[10:53:33] [127.0.0.1][ec9161e0][ManagementConnection] New connection established.
+[10:53:33] [127.0.0.1][1ce1cd44][ExtensionHostConnection] New connection established.
+[10:53:33] [127.0.0.1][1ce1cd44][ExtensionHostConnection] <2159643> Launched Extension Host Process.
+[10:53:47] [127.0.0.1][ec9161e0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:53:47] [127.0.0.1][1ce1cd44][ExtensionHostConnection] <2159643> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[10:53:47] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[10:53:47] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:54:01] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:54:01] Cancelling previous shutdown timeout
+[10:54:01] [127.0.0.1][c1e46fc4][ManagementConnection] New connection established.
+[10:54:01] [127.0.0.1][ae15a10d][ExtensionHostConnection] New connection established.
+[10:54:01] [127.0.0.1][ae15a10d][ExtensionHostConnection] <2159838> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[10:59:01] New EH opened, aborting shutdown
